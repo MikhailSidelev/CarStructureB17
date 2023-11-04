@@ -4,7 +4,7 @@ public class main {
         audi.color="black";
         audi.Hp="5000";
         audi.Doors="2";
-        audi.model="A90";
+        audi.Model="A90";
     }
 
 }
